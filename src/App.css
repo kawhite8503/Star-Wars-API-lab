@@ -34,7 +34,7 @@
 }
 
 .icon-container2 {
-  border: solid 1px black;
+  border: solid 4px #e52705;
   width: 275px;
   height: 200px;
   display: inline-flex;
@@ -61,10 +61,12 @@ h2 {
 }
 
 #returnBtn {
-  background-color: #9ae6fa;
+  background-color: #282c34;
   padding: 5px 10px;
-  font-size: 14px;
+  font-size: 18px;
   border-radius: 10px;
+  border: solid 2px #e52705;
+  color: #9ae6fa;
 }
 
 .entireInfo {
